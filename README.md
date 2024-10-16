@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Kamel</h1>
 <h3 align="center">I have a strong passion for quantitative finance and data science</h3>
 
-<img align="right" alt ="coding" width="400" src="assets/img/Pricing_des_options_Ayoub_Kamel.png">
+<img align="right" alt ="coding" width="400" src="set/1556537721_mienar (1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub-kamel" /> </p>
 
